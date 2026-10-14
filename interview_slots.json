@@ -1,0 +1,21 @@
+
+[
+    {
+        "date": "2026-10-15",
+        "time": "10:00 AM",
+        "interviewer": "HR Team",
+        "available": true
+    },
+    {
+        "date": "2026-10-15",
+        "time": "2:00 PM",
+        "interviewer": "Technical Team",
+        "available": true
+    },
+    {
+        "date": "2026-10-16",
+        "time": "11:00 AM",
+        "interviewer": "HR Team",
+        "available": false
+    }
+]
